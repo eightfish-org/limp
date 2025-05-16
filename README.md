@@ -1,2 +1,3 @@
-# limp
+# LIMP
+
 Little IM Persistence Protocol 
